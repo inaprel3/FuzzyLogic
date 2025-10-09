@@ -9,3 +9,5 @@
 ![image](https://github.com/inaprel3/FuzzyLogic/blob/main/Mathematical-models-of-membership-functions-of-fuzzy-numbers/241812160-c72133aa-aebf-4309-8cba-102facc3f295.png)
 ПРИНЦИП УЗАГАЛЬНЕННЯ ЗАДЕ: АРИФМЕТИЧНІ ОПЕРАЦІЇ
 ![image](https://github.com/inaprel3/FuzzyLogic/blob/main/Zade-s-principle-of-generalization/241812239-166a1fae-16ea-405e-81eb-41c94957e3af.png)
+МЕТОДИ І ПОКАЗНИКИ ДЛЯ ПОРІВНЯННЯ НЕЧІТКИХ
+![image](https://github.com/inaprel3/FuzzyLogic/blob/main/Methods-and-indicators-for-comparing-fuzzy-sets/241812339-d1edda25-336b-4eaf-9cda-b6a3b6da6dc3.png)
