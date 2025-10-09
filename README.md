@@ -7,3 +7,5 @@
 ![image](https://github.com/inaprel3/FuzzyLogic/blob/main/Bunkering-of-ships-in-conditions-of-uncertainty/241812016-4b4a42a7-0dd9-4b21-a94f-35ddc0157656.png)
 МАТЕМАТИЧНІ МОДЕЛІ ФУНКЦІЙ НАЛЕЖНОСТІ НЕЧІТКИХ
 ![image](https://github.com/inaprel3/FuzzyLogic/blob/main/Mathematical-models-of-membership-functions-of-fuzzy-numbers/241812160-c72133aa-aebf-4309-8cba-102facc3f295.png)
+РИНЦИП УЗАГАЛЬНЕННЯ ЗАДЕ: АРИФМЕТИЧНІ ОПЕРАЦІЇ
+![image](https://github.com/inaprel3/FuzzyLogic/blob/main/Zade-s-principle-of-generalization/241812239-166a1fae-16ea-405e-81eb-41c94957e3af.png)
