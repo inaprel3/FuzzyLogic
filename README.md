@@ -5,3 +5,5 @@
 ![image](https://github.com/inaprel3/FuzzyLogic/blob/main/Direct-and-inverse-models-for-adding-fuzzy-sets-based-on-alpha/241811676-29d68449-99dc-4ea7-a4cc-e6ea6b9bcf7b.png)
 ДОСЛІДЖЕННЯ ПРОЦЕСІВ БУНКЕРУВАННЯ СУДЕН 
 ![image](https://github.com/inaprel3/FuzzyLogic/blob/main/Bunkering-of-ships-in-conditions-of-uncertainty/241812016-4b4a42a7-0dd9-4b21-a94f-35ddc0157656.png)
+МАТЕМАТИЧНІ МОДЕЛІ ФУНКЦІЙ НАЛЕЖНОСТІ НЕЧІТКИХ
+![image](https://github.com/inaprel3/FuzzyLogic/blob/main/Mathematical-models-of-membership-functions-of-fuzzy-numbers/241812160-c72133aa-aebf-4309-8cba-102facc3f295.png)
